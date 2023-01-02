@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;800&display=swap');
+
+.header-header {
+  align-items: center;
+  display: flex;
+  font-family: 'Crimson Text', serif;
+  height: 10vh;
+  justify-content: flex-end;
+  margin: 0 auto;
+  width: 55vw;
+}
+
+.header-ul {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.header-about, .header-projects, .header-contact {
+  background-color: #9f86c0;
+  border: none;
+  border-radius: 7%;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  margin: 4vh;
+  padding: 1vh;
+  transition: 1.5s;
+  font-size: 0.8333em;
+  text-decoration: none;
+  text-shadow: 2px 2px 5px black;
+}
+
+.header-about:hover, .header-projects:hover, .header-contact:hover {
+  background-color: #6551b5;
+  cursor: pointer;
+}
+

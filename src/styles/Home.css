@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+  background-image: linear-gradient(to bottom, black, #240046, #9163cb);
+  height: 100%;
+  width: 100%;
+}
+
+.home-container {
+  /* background-size: cover;
+  background-image: url('../images/fundo.png');
+  background-repeat: no-repeat; */
+  background-color: #9f86c0;
+  border: none;
+  font-family: 'Crimson Text', serif;
+  height: 50vh;
+  margin: 0 auto;
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+  padding: 2vh;
+  width: 50vw;
+}
+
+.home-name {
+  color: #5a189a;
+}
+
+.home-p {
+  font-size: 18px;
+  height: 6vh;
+  width: 20vw;
+}
+
+.home-aside {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  height: 50%;
+  width: 100%;
+}
+
+.home-img {
+  height: auto;
+  max-height: 350vh;
+  max-width: 350px;
+  width: auto;
+}
