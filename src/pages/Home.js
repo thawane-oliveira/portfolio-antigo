@@ -11,7 +11,9 @@ function Home() {
               <h1 className='home-h1'>Olá, me chamo <span className='home-name'> Thawane</span></h1>
               <p className='home-p'>
                 Desenvolvedora full stack em formação por intermédio da Trybe.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+                Em 2022 dei início a uma transição de carreira: trabalhava como funcionária pública do setor administrativo na Prefeitura Municipal de Osasco, e decidi seguir e unir minhas paixões por arte e tecnologia por intermédio de um curso de Desenvolvimento Web Full Stack.
+                <br/>
+                Como mencionado, minhas paixões são arte e tecnologia. Possuo graduação tecnóloga em Design de Moda, onde tive o primeiro contato com a união de tecnologia e arte. Já trabalhei como desenhista tradicional freelancer também.
               </p>
               <aside className='home-aside'>
               <img src={clefairy} alt="alt da img" className='home-img'/>

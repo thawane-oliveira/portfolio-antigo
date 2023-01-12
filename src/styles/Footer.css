@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;800&display=swap');
 
-.header-header {
+.footer-container {
   align-items: center;
   display: flex;
   font-family: 'Crimson Text', serif;
   height: 10vh;
   justify-content: flex-end;
   margin: 0 auto;
-  width: 55vw;
+  width: 50vw;
 }
 
-.header-ul {
+.footer-ul {
   align-items: center;
   display: flex;
   height: 100%;
@@ -19,7 +19,12 @@
   width: 100%;
 }
 
-.header-about, .header-projects, .header-contact {
+.footer-title {
+  color: #390f64;
+  font-size: 30px;
+}
+
+.footer-contact {
   background-color: #9f86c0;
   border: none;
   border-radius: 7%;
@@ -34,7 +39,7 @@
   text-shadow: 2px 2px 5px black;
 }
 
-.header-about:hover, .header-projects:hover, .header-contact:hover {
+.footer-contact:hover {
   background-color: rgb(143, 108, 175);
   cursor: pointer;
 }

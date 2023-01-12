@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+
+.project-container {
+  background-color: #9f86c0;
+  border: none;
+  font-family: 'Crimson Text', serif;
+  height: 50vh;
+  margin: 0 auto;
+  margin-bottom: 5vh;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 2vh;
+  width: 50vw;
+}
+
+.project-container::-webkit-scrollbar {
+    /* width: 15px;
+    height: 18px; */
+    background-color: #5a189a; 
+  }
+
+.project-container::-webkit-scrollbar-thumb {
+  background: #2b0c4a;
+}
+
+.project-h2 {
+  color: #5a189a;
+  position: absolute;
+}
+
+.project-cap {
+  color: #5a189a;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+}
+
+.project-one {
+  height: auto;
+  max-height: 600vh;
+  max-width: 600px;
+  width: auto;
+}
+
+.project-img-container {
+  display: flex;
+  height: 100%;
+  margin-top: 10vh;
+  width: 100%;
+}
