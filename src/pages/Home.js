@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Home.css';
-import clefairy from '../images/clefairy.png';
+import thawane from '../images/thawane.jpeg';
 
 function Home() {
    
@@ -16,7 +16,7 @@ function Home() {
                 Como mencionado, minhas paixões são arte e tecnologia. Possuo graduação tecnóloga em Design de Moda, onde tive o primeiro contato com a união de tecnologia e arte. Já trabalhei como desenhista tradicional freelancer também.
               </p>
               <aside className='home-aside'>
-              <img src={clefairy} alt="alt da img" className='home-img'/>
+              <img src={thawane} alt="alt da img" className='home-img'/>
               </aside>
               </main>
               </>
