@@ -4,6 +4,7 @@
   align-items: center;
   display: flex;
   font-family: 'Crimson Text', serif;
+  font-size: 18px;
   height: 10vh;
   justify-content: flex-end;
   margin: 0 auto;
@@ -21,7 +22,7 @@
 
 .footer-title {
   color: #390f64;
-  font-size: 30px;
+  font-size: 4vh;
 }
 
 .footer-contact {
