@@ -24,7 +24,7 @@ function Project() {
         </figure>
 
         <figure>
-        <a href="https://wallet-rust-beta.vercel.app/" target="_blank" rel="noreferrer">
+        <a href="https://thawane-oliveira.github.io/wallet/" target="_blank" rel="noreferrer">
           <img
             className='project-one'
             src={wallet}
@@ -35,7 +35,7 @@ function Project() {
         </figure>
 
         <figure>
-        <a href="https://adopt-pets-ochre.vercel.app/" target="_blank" rel="noreferrer">
+        <a href="https://thawane-oliveira.github.io/adopt-pets/" target="_blank" rel="noreferrer">
           <img
             className='project-one'
             src={adopt}
